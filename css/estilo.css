@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    border-radius: 8px;
+    float: left;
+    background-color: white;
+    margin: 13px 0 0 10px;
+    padding: 5px 7px 2px 7px;
+    color: rgba(0, 0, 0, 0.401);
+    font-weight: bold; /*grosor*/
+}
+
+header{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: aqua;
+}
+
+#izquierda{
+    background-color: black;
+    width: 33%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+#medio{
+    background-color:black;
+    width: 34%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+#derecha{
+    background-color: black;
+    width: 33%;
+    height: 40px;
+    float: left;
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+
+h2{
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+h4{
+    color: white;
+}
+
+h5{
+    color: aqua;
+}
